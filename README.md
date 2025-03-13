@@ -3,9 +3,9 @@
 ## 📌 Overview
 A personal website showcasing a collection of past work and projects, highlighting the skills and expertise of the individual in their field.
 
-<!-- ![Website Preview](www.youtube.com) -->
+<!-- ![Website Preview](https://portfolio-per.netlify.app/) -->
 
-🔗 **Live Demo:** [Visit Website](#)
+🔗 **Live Demo:** [Visit Website](https://portfolio-per.netlify.app/)
 
 ## 🛠️ Tech Stack
 - **HTML**
